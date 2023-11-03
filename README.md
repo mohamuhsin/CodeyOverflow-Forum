@@ -26,4 +26,4 @@ Open up Body.js and define your Body component.
 
 This component should receive props. This props object contains all of the data on our comment, such as the username, profile image, and comment, but the Body works specifically with only the comment property.
 
-Have the component return a <p> element that contains the comment property from props.
+Have the component return a `<p>` element that contains the comment property from props.
