@@ -66,3 +66,6 @@ It’s time to access those and finally pass them to the children components: `H
 `Header` expects two `props`, `profileImg` and `username`.
 
 Give the `Header` instance an attribute named `profileImg` and the value of `props.commentObject.profileImg`.
+
+**9.**
+Next, give the Header instance an attribute named username and the value of props.commentObject.username.
