@@ -50,11 +50,10 @@ In the `App` component body, map over the comments array with the argument named
 
 For each component, give it an attribute named commentObject and the value `{comment}`.
 
-**7.**
-Nice! You’ve set up App to pass down information to the Card component. Let’s put the pieces together.
+**7.** Nice! You’ve set up `App` to pass down information to the `Card` component. Let’s put the pieces together.
 
-Open Card.js and import the Header and Body components. Card will be the outer “shell” that contains our two smaller components: Card is the parent, and Header and Body are the child components.
+Open `Card.js` and import the Header and Body components. `Card` will be the outer “shell” that contains our two smaller components: `Card` is the parent, and `Header` and `Body` are the child components.
 
-Begin defining the Card component. Card should receive props.
+Begin defining the Card component. `Card` should receive props.
 
-Card should return an instance of the Header component, and an instance of the Body component.
+`Card` should return an instance of the `Header` component, and an instance of the Body component.
