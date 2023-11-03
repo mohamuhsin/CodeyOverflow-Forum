@@ -4,4 +4,6 @@ In this project, we will build the beginnings of a web forum! A forum is an onli
 
 In building this application, you will sharpen your skills in React components by practicing using props as well as defining, rendering, and referencing components.
 
+# Tasks
+
 **Setting Up Header and Body**
