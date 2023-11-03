@@ -76,3 +76,5 @@ The `Body` instance expects a `comment` prop.
 Give the `Body` instance an attribute named `comment` and the value of `props.commentObject.comment`.
 
 **11.** Now, export the Card component so it can be imported and used.
+
+**Rendering the Application**
