@@ -69,3 +69,8 @@ Give the `Header` instance an attribute named `profileImg` and the value of `pro
 
 **9.**
 Next, give the `Header` instance an attribute named `username` and the value of `props.commentObject.username`.
+
+**10.**
+The Body instance expects a comment prop.
+
+Give the Body instance an attribute named comment and the value of props.commentObject.comment.
