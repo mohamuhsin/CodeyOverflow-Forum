@@ -59,10 +59,10 @@ Begin defining the Card component. `Card` should receive props.
 `Card` should return an instance of the `Header` component, and an instance of the Body component.
 
 
-**8.** Previously in App.js, you’ve passed down a commentObject attribute to Card which contains an object with three properties (profileImg, username, and comment).
+**8.** Previously in `App.js`, you’ve passed down a commentObject attribute to Card which contains an object with three properties (`profileImg`, `username`, and `comment`).
 
-It’s time to access those and finally pass them to the children components: Header and Body.
+It’s time to access those and finally pass them to the children components: `Header` and `Body`.
 
-Header expects two props, profileImg and username.
+`Header` expects two `props`, `profileImg` and `username`.
 
-Give the Header instance an attribute named profileImg and the value of props.commentObject.profileImg.
+Give the `Header` instance an attribute named `profileImg` and the value of `props.commentObject.profileImg`.
