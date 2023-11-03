@@ -30,3 +30,9 @@ Have the component return a `<p>` element that contains the comment property fro
 
 **3.**
 Export the Body component after its function definition so that it can be imported and used in `Card.js`.
+
+**4.** Open `Header.js` and define your `Header` component.
+
+This component will be responsible for the profileImg and username properties of our passed-down comments object.
+
+The Header component should receive props. The component should return two elements, an `<img>` element whose src attribute will receive the profileImg property from props, and a `<h1>` element, displaying username from `props`.
