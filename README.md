@@ -78,3 +78,5 @@ Give the `Body` instance an attribute named `comment` and the value of `props.co
 **11.** Now, export the Card component so it can be imported and used.
 
 **Rendering the Application**
+
+**12.** Open up App.js again, and import the Card component which is now defined and exported.
