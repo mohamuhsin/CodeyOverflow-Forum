@@ -8,8 +8,7 @@ In building this application, you will sharpen your skills in React components b
 
 **Setting Up Header and Body**
 
-1.
-Take a look at the files provided for this project.
+**1.** Take a look at the files provided for this project.
 
 There is a file named commentData.js which contains an array of comment objects with profileImg, username, and comment as its properties. You will use this to populate the comments on the forum.
 
@@ -19,4 +18,4 @@ Next, App.js will contain the top-level component. The data in commentData.js wi
 
 index.js will render the App component. style.css and index.html handle the markup and styling of the forum.
 
-Once you feel comfortable with the structure of this application, move on to the next checkpoint.
+Once you feel comfortable with the structure of this application, move on to the next Task.
