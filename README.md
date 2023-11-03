@@ -42,10 +42,10 @@ Export the `Header` component after its function definition so that it can be im
 
 **Setting Up Card**
 
-**6.** Great job! Let’s take a brief detour back to App.js.
+**6.** Great job! Let’s take a brief detour back to `App.js`.
 
-Currently, the App component is empty. This is the top-level component and it is responsible for returning the interface to be rendered. In this case, it will be returning an instance of the Card component for every comment in commentData.js.
+Currently, the `App` component is empty. This is the top-level component and it is responsible for returning the interface to be rendered. In this case, it will be returning an instance of the Card component for every comment in `commentData.js`.
 
-In the App component body, map over the comments array with the argument named comment and return an instance of the Card component.
+In the `App` component body, map over the comments array with the argument named comment and return an instance of the `Card` component.
 
-For each component, give it an attribute named commentObject and the value {comment}.
+For each component, give it an attribute named commentObject and the value `{comment}`.
