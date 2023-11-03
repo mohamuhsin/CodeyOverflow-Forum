@@ -39,3 +39,5 @@ The Header component should receive props. The component should return two eleme
 
 **5.**
 Export the `Header` component after its function definition so that it can be imported and used in `Card.js`.
+
+**Setting Up Card**
