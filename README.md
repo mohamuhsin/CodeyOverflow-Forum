@@ -20,9 +20,7 @@ index.js will render the App component. style.css and index.html handle the mark
 
 Once you feel comfortable with the structure of this application, move on to the next Task.
 
-
-2.
-Let’s start with the smallest component, the Body. The Body is responsible for showing the comments that users have written. It will work with the comment property of our passed-down comments object extracted from commentData.js.
+**2.** Let’s start with the smallest component, the Body. The Body is responsible for showing the comments that users have written. It will work with the comment property of our passed-down comments object extracted from commentData.js.
 
 Open up Body.js and define your Body component.
 
